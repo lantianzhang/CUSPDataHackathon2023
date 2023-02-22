@@ -1,5 +1,5 @@
 bgrp: the blockgroup id
-total_pop: the total population of the block group
+SUM_POP10: the total population of the block group
 pctpov: the percent of people in poverty inside the blockgroup
 pctpoc: the percent of people of color inside the block group
 unemplrate: the unemployment rate inside of the block group
@@ -9,7 +9,6 @@ child_perc: the percent of children inside of the blockgroup
 seniorperc: the percent of seniors inside of the blockgroup
 treecanopy: the tree canopy percentage of the blockgroup (set to negative 1 if the source is 'ED')
 area: the area of the blockgroup in square kilometers
-source: the source of the tree canopy of the block group
 avg_temp: the average temperature of the blockgroup on a hot summer's day
 ua_name: the urbanized area the block group is located inside
 incorpname: the incorporated place the block group is located inside
