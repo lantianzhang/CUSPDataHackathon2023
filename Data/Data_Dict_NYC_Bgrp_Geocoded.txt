@@ -1,7 +1,5 @@
-geoid: the blockgroup id
+bgrp: the blockgroup id
 total_pop: the total population of the block group
-state: the state the blockgroup is in
-county: the county the blockgroup is in
 pctpov: the percent of people in poverty inside the blockgroup
 pctpoc: the percent of people of color inside the block group
 unemplrate: the unemployment rate inside of the block group
@@ -18,9 +16,6 @@ incorpname: the incorporated place the block group is located inside
 congressio:  the congressional district of the block group
 biome:  the biome of the blockgroup
 bgpopdense: the density of the blockgroup (total population over area)
-popadjust: the population adjustment factor (based on the population density)
-tc_gap: the tree canopy gap of the block group (goal minus canopy)
-tc_goal: the tree canopy goal of the block group (set to negative 1 if the source is 'ED')
 phys_hlth: the self reported physical health challenges of the people in the block group (a percentage)
 ment_hlth:  the self reported mental health challenges of people in the block group (a percentage)
 asthma: the self reported asthma challenges of people in the block group (a percentage)
@@ -28,7 +23,14 @@ core_m: the self reported male coronary heart challenges of people in the block 
 core_w: the self reported female coronary heart challenges of people in the block group (a percentage)
 core_norm: the normalized total coronary challenges of people in the block group
 healthnorm: the normalized health index of the block group
-priority: the priority index of the block group
-tes: the tree equity score of the block group
-tesctyscor: the tree equity score of the incorporated place/municipality of the block group
 geometry: the geometry of the block group
+MFor_P: Percent tree cover of total block group area
+MFor_PC: Tree cover per capita (m2/person) 
+Green_P: Percent green space of total block group area
+Green_PC: Green space per capita (m2/person) 
+BWDP_Pct: Percent of residential population not within 500m of a park entrance 
+IWDP_Pct: Percent of residential population within 500m of a park entrance
+WVT_Pct: Percent of residential population with minimal views of trees
+WVW_Pct: Percent of residential population with views of water 
+Buff_Pct: Percent of residential population within 300m of busy roadway 
+PLx2_Pct: The percentage of the applicable block group population with income under two times the poverty level
