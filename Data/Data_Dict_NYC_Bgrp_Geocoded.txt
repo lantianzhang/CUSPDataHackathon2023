@@ -9,7 +9,6 @@ child_perc: the percent of children inside of the blockgroup
 seniorperc: the percent of seniors inside of the blockgroup
 area: the area of the blockgroup in square kilometers
 avg_temp: the average temperature of the blockgroup on a hot summer's day
-biome:  the biome of the blockgroup
 bgpopdense: the density of the blockgroup (total population over area)
 phys_hlth: the self reported physical health challenges of the people in the block group (a percentage)
 ment_hlth:  the self reported mental health challenges of people in the block group (a percentage)
