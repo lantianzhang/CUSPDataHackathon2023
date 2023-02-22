@@ -16,15 +16,8 @@ asthma: the self reported asthma challenges of people in the block group (a perc
 core_m: the self reported male coronary heart challenges of people in the block group (a percentage)
 core_w: the self reported female coronary heart challenges of people in the block group (a percentage)
 core_norm: the normalized total coronary challenges of people in the block group
-healthnorm: the normalized health index of the block group
 geometry: the geometry of the block group
 MFor_P: Percent tree cover of total block group area
 MFor_PC: Tree cover per capita (m2/person) 
 Green_P: Percent green space of total block group area
 Green_PC: Green space per capita (m2/person) 
-BWDP_Pct: Percent of residential population not within 500m of a park entrance 
-IWDP_Pct: Percent of residential population within 500m of a park entrance
-WVT_Pct: Percent of residential population with minimal views of trees
-WVW_Pct: Percent of residential population with views of water 
-Buff_Pct: Percent of residential population within 300m of busy roadway 
-PLx2_Pct: The percentage of the applicable block group population with income under two times the poverty level
